@@ -1,0 +1,14 @@
+/Users/kangmingyu/GitRepo/Programming/Github/cs/bin/Debug/net7.0/cs
+/Users/kangmingyu/GitRepo/Programming/Github/cs/bin/Debug/net7.0/cs.deps.json
+/Users/kangmingyu/GitRepo/Programming/Github/cs/bin/Debug/net7.0/cs.runtimeconfig.json
+/Users/kangmingyu/GitRepo/Programming/Github/cs/bin/Debug/net7.0/cs.dll
+/Users/kangmingyu/GitRepo/Programming/Github/cs/bin/Debug/net7.0/cs.pdb
+/Users/kangmingyu/GitRepo/Programming/Github/cs/obj/Debug/net7.0/cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kangmingyu/GitRepo/Programming/Github/cs/obj/Debug/net7.0/cs.AssemblyInfoInputs.cache
+/Users/kangmingyu/GitRepo/Programming/Github/cs/obj/Debug/net7.0/cs.AssemblyInfo.cs
+/Users/kangmingyu/GitRepo/Programming/Github/cs/obj/Debug/net7.0/cs.csproj.CoreCompileInputs.cache
+/Users/kangmingyu/GitRepo/Programming/Github/cs/obj/Debug/net7.0/cs.dll
+/Users/kangmingyu/GitRepo/Programming/Github/cs/obj/Debug/net7.0/refint/cs.dll
+/Users/kangmingyu/GitRepo/Programming/Github/cs/obj/Debug/net7.0/cs.pdb
+/Users/kangmingyu/GitRepo/Programming/Github/cs/obj/Debug/net7.0/cs.genruntimeconfig.cache
+/Users/kangmingyu/GitRepo/Programming/Github/cs/obj/Debug/net7.0/ref/cs.dll
